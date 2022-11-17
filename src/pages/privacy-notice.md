@@ -1,6 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Privacy Notice
+permalink: '/privacy-notice/index.html'
 metaTitle: Privacy Notice
 metaDesc: Privacy Notice and cookies information for Tech Works For Us - how we
   treat your data responsibly, and the way we protect your privacy on our
@@ -157,18 +158,13 @@ E-mail: \[DATA EMAIL]
 
 You can also complain to the ICO if you are unhappy with how we have used your data.
 
-The ICO’s address:            
+The ICO’s address:
 
 Information Commissioner’s Office
-
 Wycliffe House
-
 Water Lane
-
 Wilmslow
-
 Cheshire
-
 SK9 5AF
 
 Helpline number: 0303 123 1113
