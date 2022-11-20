@@ -1,16 +1,16 @@
 ---
 layout: home
 title: Tech Works For Us
-metaDesc: Tech Works for Us is a digital consultancy providing mentoring,
+metaDesc: Tech Works for Us is a  values-driven digital consultancy providing mentoring,
   advice, research and product management support for your digital projects that
   puts people and planet first.
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ""
 ---
-## Values-driven digital service design and consultancy
+## Mentoring, advice, research and product management support for your digital projects that puts people and planet first
 
-Tech Works for Us is a digital consultancy providing mentoring, advice, research and product management support for your digital projects that puts people and planet first.
+Tech Works for Us is a values-driven digital consultancy providing mentoring, advice, research, service design and product management support for your digital projects that puts people and planet first.
 
 We can draw on over 25 years experience in online and mobile across a wide variety of projects in health, science, education, culture and the arts to help you with all of the above.
 
