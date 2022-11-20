@@ -3,4 +3,6 @@ title: 'Thank you'
 permalink: '/thank-you/index.html'
 ---
 
-This is your thank you page where if someone fills in your contact form, they will be directed to. Make sure you add a nice message 🙂
+Thank you. Your message is on its way, and we will get back to you in the next couple of working days.
+
+You can also follow us on twitter, instagram or mastodon.	
