@@ -6,8 +6,16 @@
       "external": false
     },
     {
+      "text": "Blog",
+      "url": "/blog/"
+    },
+    {
       "text": "Principles",
       "url": "/our-principles/"
+    },
+    {
+      "text": "About Us",
+      "url": "/about/"
     },
     {
       "text": "Contact",
