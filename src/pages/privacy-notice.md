@@ -11,15 +11,15 @@ metaDesc: Privacy Notice and cookies information for Tech Works For Us - how we
 
 ### About Us
 
-\[ORGANISATION] is run by \[LEGAL ENTITY] (Registered address \[REGISTERED ADDRESS], company number \[COMPANY NUMBER]) 
+\[ORGANISATION] is run by \[LEGAL ENTITY] (Registered address \[REGISTERED ADDRESS], company number \[COMPANY NUMBER]) 
 
 This privacy notice explains how our organisation uses the personal data we collect from you when you use our website, attend our events, contact us by email, phone or letter, or otherwise use our services.
 
-\[LEGAL ENTITY] is the data controller for this website, registered with the ICO \[ICO REG NUMBER] 
+\[LEGAL ENTITY] is the data controller for this website, registered with the ICO \[ICO REG NUMBER] 
 
 We keep this privacy notice under regular review and publish any updates on this web page. This privacy notice was last updated on \[LAST UPDATE DATE].
 
-### The type of personal information we collect
+### The type of personal information we collect 
 
 We currently collect and process the following information:
 
@@ -28,7 +28,7 @@ We currently collect and process the following information:
 * Photographs, video or screen recordings (for example, a recording of a video call for an online seminar)
 * Structured and unstructured research data (for example, survey responses, or notes from interviews and meetings.)
 * Information shared on social media sites (for example, your public posts, direct messages or your likes and follows)
-* Business and financial information (for example, invoices and  bank details for individuals we work with)
+* Business and financial information (for example, invoices and  bank details for individuals we work with)
 
 ### How we get personal information and why we have it
 
@@ -48,7 +48,7 @@ We also receive personal information indirectly, from the following sources in t
 * Someone we are working with may share your contact details so that we can run a workshop you participate in
 * We take photographs or record a meeting or workshop for our own documentation
 
-We use the information that you have given us in order to 
+We use the information that you have given us in order to 
 
 * Respond to your enquiries and communication you share with us
 * Email you with information about workshops and events you are attending
@@ -68,14 +68,14 @@ When we process any orders you make online, we may send your data to, and also u
 
 ### The lawful basis for using your personal information
 
-Under the General Data Protection Regulation (GDPR), the lawful bases we rely on for processing this information are: 
+Under the General Data Protection Regulation (GDPR), the lawful bases we rely on for processing this information are: 
 
 * We have your consent - when you have unambiguously and freely agreed to share your information with us. You are able to withdraw your consent at any time. You can do this by contacting \[DATA EMAIL]
 * We have a contractual obligation - when we have a contractual relationship with you to provide services you’ve requested, or have a contractual agreement with a supplier or a client to process your information.
 * We have a legal obligation - when we need to store records of your consent or opt-out for using your data, or when a law enforcement authority uses its legal powers to make us share information.
 * We have a legitimate interest - when we could not operate our business without processing your information in some way.
 
-### How we store your personal information
+### How we store your personal information 
 
 We store your information in different ways depending on the type of data. It may be on secure remote servers, held locally on password protected devices or as hard-copies which will be filed in locked cabinets. We use secure, regularly updated passwords and two-factor authentication for services where available. Data transferred to remote servers will be sent over an encrypted connection.
 
@@ -85,11 +85,11 @@ We review the information we hold regularly, do not store it longer than necessa
 
 ### Services we use
 
-We use third party services and online platforms to host our website, store files, host video calls and workshops, manage our finances, and deliver other business processes as part of our work. These services manage the data from these tools on our behalf, governed by the contracts we have with them,  and their terms of service and privacy policies. 
+We use third party services and online platforms to host our website, store files, host video calls and workshops, manage our finances, and deliver other business processes as part of our work. These services manage the data from these tools on our behalf, governed by the contracts we have with them,  and their terms of service and privacy policies. 
 
 This website is built using \[SERVICE], which stores data in data centres across the United States. We have agreed to their Terms of Service, and to their Data Processing Addendum. This is their Privacy Policy.
 
-We use Google Fonts on the site; it does not set cookies, and limits data collection to that necessary to serve and display the fonts on our site.  
+We use Google Fonts on the site; it does not set cookies, and limits data collection to that necessary to serve and display the fonts on our site.  
 
 We may also embed content from third party social sites, or from Google Documents. 
 
@@ -103,7 +103,7 @@ If a platform or service we use has data centres outside the EU, we may transfer
 
 If you have agreed to receive marketing email from us, you can still opt out at any time. We will include an unsubscribe link in any email we send, or you can contact us directly \[DATA EMAIL] to opt out.
 
-We will not share your information with any third party for marketing purposes without  your consent.
+We will not share your information with any third party for marketing purposes without  your consent.
 
 ## How we use Cookies
 
@@ -128,15 +128,15 @@ Our website contains links to other websites. Our privacy notice applies only to
 
 Under data protection law, you have rights including:
 
-Your right of access - You have the right to ask us for copies of your personal information. 
+Your right of access - You have the right to ask us for copies of your personal information. 
 
-Your right to rectification - You have the right to ask us to rectify personal information you think is inaccurate. You also have the right to ask us to complete information you think is incomplete. 
+Your right to rectification - You have the right to ask us to rectify personal information you think is inaccurate. You also have the right to ask us to complete information you think is incomplete. 
 
-Your right to erasure - You have the right to ask us to erase your personal information in certain circumstances. 
+Your right to erasure - You have the right to ask us to erase your personal information in certain circumstances. 
 
-Your right to restriction of processing - You have the right to ask us to restrict the processing of your personal information in certain circumstances. 
+Your right to restriction of processing - You have the right to ask us to restrict the processing of your personal information in certain circumstances. 
 
-Your right to object to processing - You have  the right to object to the processing of your personal information in certain circumstances.
+Your right to object to processing - You have  the right to object to the processing of your personal information in certain circumstances.
 
 Your right to data portability - You have the right to ask that we transfer the personal information you gave us to another organisation, or to you, in certain circumstances.
 
