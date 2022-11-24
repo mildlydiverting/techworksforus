@@ -1,57 +1,123 @@
-# A simple starter kit for Eleventy
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend it for yourself.
+A starter website for Tech Works For Us, built using
 
-Get started now by **[deploying Hylia to Netlify.][deploy-to-netlify]**
+[Hylia](https://github.com/hankchizljaw/hylia) as a starter theme, with some tweaks
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)][deploy-to-netlify]
+[Eleventy](https://11ty.io) static site generator
 
-<img src="https://hankchizljaw.imgix.net/hylia-github.jpg?auto=format&q=60" width="550" />
+Git/Github for source control and repo hosting.
 
-## Features
+[Netlify CMS](https://www.netlifycms.org/) and Netlify to deploy
 
-Hylia version 0.7.0 features:
 
-✍️ A pre-configured [Netlify CMS](https://www.netlifycms.org/) setup  
-🎨 Customisable design tokens to make it your own  
-🌍 Customisable global data and navigation  
-📂 Tags and tag archives  
-✅ Progressively enhanced, semantic and accessible  
-🎈 _Super_ lightweight front-end  
-🚰 Sass powered CSS system with utility class generator  
-⚙️ Service worker that caches pages so people can read your articles offline  
-🚀 An RSS feed for your posts  
-💌 A basic contact form, ready for [Netlify Forms](https://docs.netlify.com/forms/setup/#html-forms)
+# Netlify CMS
 
-## Roadmap
 
-💬 [Netlify Forms](https://www.netlify.com/docs/form-handling/) powered comments  
-💡 ~~Dark/Light mode toggle~~ [Added in 0.4.0](https://github.com/hankchizljaw/hylia/releases/tag/0.4.0)  
-🗣 Webmentions  
-📖 Pagination  
-🐦 Web sharing API integration  
-🗒 Offline mode with links to cached pages  
-📄 Documentation site  
-💅 Proper Sass documentation  
-✍️ Proper CMS documentation  
-🖼 A facility for you to be able to add your logo / branding  
+Hylia has [Netlify CMS](https://www.netlifycms.org/) pre-configured as standard. You can customise the configuration by editing [`src/admin/config.yml`](https://github.com/hankchizljaw/hylia/blob/master/src/admin/config.yml).
 
----
+To use the CMS on Live you need to have been set up with a 'Netlify Identity' through the Netlify site management console.
 
-## Getting started
+- Go to `/admin/` on your site and login
+- You’re in and ready to edit your content!
 
-### Method one: One-Click Deploy to Netlify
+### Content that you can edit
 
-You can [deploy Hylia to Netlify with one click][deploy-to-netlify] and you’ll be up and running in minutes!
+The basic CMS setup allows you to edit the following:
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)][deploy-to-netlify]
+- **Home page**: Edit the content on your homepage
+- **Posts**: Create and edit blog posts
+- **Generic pages**: Create generic pages that use a similar layout to posts
+- **Global site data**: Various bits of global site data such as your url, title, posts per page and author details
+- **Navigation**: Edit your primary navigation items
+- **Theme**: Edit the design tokens that power the site’s theme
 
-I recorded a quick start video of me deploying Hylia to Netlify and getting the CMS set up. [Check it out here](https://youtu.be/0hM_0BH-Y_A).
 
-### Method two: Clone / Fork
+# How it is set up
 
-1. Clone or fork this repo: `git clone https://github.com/hankchizljaw/hylia`
-2. `cd` into the project directory and run `npm install`
+It's using [Eleventy](https://11ty.io) , (11ty), a static site generator based on Node.js. Good [tips and help with 11ty](https://11ty.rocks)
+Eleventy allows you to use many different template languages, and to use multiple languages in the same project.
+
+Content is stored in Markdown Files.
+
+The theme is [Hylia](https://github.com/hankchizljaw/hylia), with a few alterations (changed contact form, amended the homepage 'banner' to just show a title and strapline, added an SVG background). Look at `readme-hylia.md` for more about all the clever stuff it does.
+
+Hylia is written in [Nunjucks templating language](https://mozilla.github.io/nunjucks/).
+
+The page layout structure is pulled in from templates and 'partials' inside blocks, so you can specify which layout a page uses, and then configure and reuse code fragments. It's quite sweet.
+
+There is a Styleguide page at `(website)/sytleguide/` which can be useful.
+
+
+
+
+# Images
+
+The leaf pattern is an SVG repeat that's encoded in the CSS. It is taken from here.
+https://heropatterns.com under CC-By 4.0 - we should credit HeroPatterns/Steve Schoger
+
+I worked with 800x600 images, but you might want to look at going a little bigger, or a 16:9 aspect ratio.
+Aim to keep them as small as possible. 
+
+Dithering saves some file size for images (gif, png) whilst maintaing detail. It was used by LowTech as an aesthetic statement as much as an efficiency one. 
+See writeups from:
+[homebrewserver.club](https://homebrewserver.club/low-tech-website-howto.html#image-compression) 
+[solar.lowtechmagazine.com](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html)
+
+There's a [lot of discussion](https://news.ycombinator.com/item?id=28696014) about how well it works as a compression tactic
+
+I quite like it as an aesthetic signal that youre thinking about the file size.
+
+We may want to use WebP images - they are much much more efficient but taking a while to catch on. 
+
+[Image Compressor-Reduce PNG, JPEG, WEBP](https://redketchup.io/image-compressor) allows you to compress images and export in different formats.
+
+### Photoshop Dithering in Save for Web Dialog
+
+![A picture of Martha Henson](/images/martha-henson-600px.gif "This is a picture of Martha Henson, Which I have run through a photoshop filter to reduce its file size a lot.")
+
+### Dither It
+
+https://ditherit.com offers different dithering options and algorithms
+
+![demo-dither_it_22711070429_526ea6cc44_o.jpg](/images/demo-dither_it_22711070429_526ea6cc44_o.jpg "Caption")
+
+![demo-dithered-image.png](/images/demo-dithered-image.png)
+
+
+See also https://doodad.dev/dither-me-this/
+
+### Halftone Pro
+
+[https://halftonepro.com/app](https://halftonepro.com/app "title of this link")
+
+<https://halftonepro.com/app>
+
+![demo-halftone-1668948217.png](/images/demo-halftone-1668948217.png  "alt text")
+
+![demo-halftone-1668948363.png](/images/demo-halftone-1668948363.png "alt text")
+
+![demo-halftone-1668948665.png](/images/demo-halftone-1668948665.png "alt text")
+
+Settings for Halftone Pro:
+#404040
+#F2CAA5
+Popart preset, changing colours
+
+Outputs large heavy images, however.
+
+# Running Locally
+
+To make a local version
+
+1. Install [Github for Windows](https://desktop.github.com)
+2. Download [Node.jd installer](https://nodejs.org/en/download/)
+3. Install Node [instructions for Windows](https://treehouse.github.io/installation-guides/windows/node-windows.html)
+
+
+Clone the repo in Git to a local folder
+
+1. Add existing repository to GitHub Desktop `https://github.com/mildlydiverting/techworksforus`
+2. In terminal `cd` into the project directory and run `npm install`
 3. Once all the dependencies are installed run `npm start`
 4. Open your browser at `http://localhost:8080` and away you go!
 
@@ -81,32 +147,25 @@ npm run sass:process
 npm run sass:tokens
 ```
 
-## Getting started with the CMS
 
-Before you can use the CMS, you need to do some config in Netlify. Luckily they provide a [very handy guide to get started](https://www.netlify.com/docs/identity/).
+# Design, Tokens and Styleguide
 
-In short, though:
+Colours currently:
 
-- Once you’ve set up the site on Netlify, go to “Settings” > “Identity” and enable Identity
-- Scroll down to the “Git Gateway” area, click “Enable Git Gateway” and follow the steps
-- Click the “Identity” tab at the top
-- Once you’ve enabled identity, click “Invite Users”
-- Check the invite link in your inbox and click the link in the email that’s sent to you
-- Set a password in the popup box
-- Go to `/admin` on your site and login
-- You’re in and ready to edit your content!
+    "primary": "#F27400",
+    "primary-shade": "#AA5200",
+    "primary-glare": "#FFAB40",
+    "highlight": "#F0E0D1",
+    "light": "#FFFFFF",
+    "mid": "#cccccc",
+    "dark": "#333333",
+    "slate": "#404040"
 
-## Design Tokens and Styleguide
+
 
 ### Design Tokens
 
-Although Hylia has a pretty simple design, you can configure the core design tokens that control the colours, size ratio and fonts.
-
----
-
-**Note**: _Credit must be given to the hard work [Jina Anne](https://twitter.com/jina) did in order for the concept of design tokens to even exist. You should watch [this video](https://www.youtube.com/watch?v=wDBEc3dJJV8), then [read this article](https://the-pastry-box-project.net/jina-bolton/2015-march-28) and then sign up for [this course](https://aycl.uie.com/virtual_seminars/design_tokens_scaling_design_with_a_single_source_of_truth) to expand your knowledge._
-
----
+You can configure the core design tokens that control the colours, size ratio and fonts.
 
 To change the design tokens in the CMS, find the “Globals” in the sidebar then in the presented options, select “Theme Settings”.
 
@@ -116,93 +175,9 @@ The tokens are converted into maps that the Sass uses to compile the front-end C
 
 ### Styleguide
 
-Your version of Hylia ships with a Styleguide by default. You can see a demo of the Styleguide at <https://hylia.website/styleguide/>.
+A styleguide is available at /styleguide/
 
-You can edit the Styleguide by opening [`src/styleguide.njk`](https://github.com/hankchizljaw/hylia/blob/master/src/styleguide.njk). If you don’t want the Styleguide, delete that file and the page will vanish.
 
-## Sass
 
-Hylia is based on the [WIP v2 version of Stalfos](https://github.com/hankchizljaw/stalfos/tree/feature/v2), which currently has no documentation (I know, I’m bad). Here is some very basic documentation for elements of the new framework that you will encounter on this project.
 
-### Configuration
 
-The whole Sass system is powered by central config file, which lives here: [`_src/scss/_config.scss`](https://github.com/hankchizljaw/hylia/blob/master/src/scss/_config.scss).
-
-Before Sass is compiled, a `_tokens.scss` file is generated from the [design tokens config](https://github.com/hankchizljaw/hylia/blob/master/src/_data/tokens.json) which is required.
-
-Key elements:
-
-- `$stalfos-size-scale`: A token driven size scale which by default, is a “Major Third” scale
-- `$stalfos-colors`: A token driven map of colours
-- `$stalfos-util-prefix`: All pre-built, framework utilities will have this prefix. Example: the wrapper utility is '.sf-wrapper' because the default prefix is 'sf-'
-- `$metrics`: Various misc metrics to use around the site
-- `$stalfos-config`: This powers everything from utility class generation to breakpoints to enabling/disabling pre-built components/utilities
-
-### How to create a new utility class with the generator
-
-The utility class generator lets you generate whatever you want, with no opinions on class name or properties affected.
-
-To add a new class, add another item to the exists `$stalfos-config` map. This example adds a utility for floating elements.
-
-```scss
-'float':('items':('left':'left','right': 'right'
-  ),
-  'output': 'responsive',
-  'property': 'float'
-);
-```
-
-The `output` is set to `responsive` which means every breakpoint will generate a prefixed class for itself. If you only wanted elements to float left in the `md` breakpoint, you’d now be able to add a class of `md:float-left` to your HTML elements.
-
-If you only want standard utility classes generating, set the `output` to `standard`.
-
-### Functions
-
-#### `get-color($key)`
-
-Function tries to match the passed `$key` with the `$stalfos-colors` map. Returns null if it can’t find a match.
-
-#### `get-config-value($key, $group)`
-
-Returns back a 1 dimensional (key value pair) config value if available.
-
-#### `get-size($ratio-key)`
-
-Function tries to match the passed `$ratio-key` with the `$stalfos-size-scale`. Returns null if it can’t find a match.
-
-### Mixins
-
-#### `apply-utility($key, $value-key)`
-
-Grabs the property and value of one of the `$stalfos-config utilities` that the generator will generate a class for.
-
-#### `media-query($key)`
-
-Pass in the key of one of your breakpoints set in `$stalfos-config['breakpoints']` and this mixin will generate the `@media` query with your configured value.
-
-## CMS
-
-Hylia has [Netlify CMS](https://www.netlifycms.org/) pre-configured as standard. You can customise the configuration by editing [`src/admin/config.yml`](https://github.com/hankchizljaw/hylia/blob/master/src/admin/config.yml).
-
-### Content that you can edit
-
-The basic CMS setup allows you to edit the following:
-
-- **Home page**: Edit the content on your homepage
-- **Posts**: Create and edit blog posts
-- **Generic pages**: Create generic pages that use a similar layout to posts
-- **Global site data**: Various bits of global site data such as your url, title, posts per page and author details
-- **Navigation**: Edit your primary navigation items
-- **Theme**: Edit the design tokens that power the site’s theme
-
-## Get involved
-
-This project is _super_ early and feedback is very much welcome. In order to keep things running smooth, please consult the [contribution guide and code of conduct](https://github.com/hankchizljaw/hylia/blob/master/contributing.md).
-
-The stuff that I need the most help with is:
-
-- Documentation
-- [Webmentions](https://www.w3.org/TR/webmention/)
-- Performance
-
-[deploy-to-netlify]: https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms
