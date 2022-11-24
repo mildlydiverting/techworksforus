@@ -1,4 +1,4 @@
-{% from "macros/form.njk" import label, field, textarea, button %}
+{% from "macros/form.njk" import label, field, textarea, confirm, checkboxes, button %}
 
 <form name="contact" method="POST" data-netlify="true" action="/thank-you/" netlify-honeypot="bot-field">
   <ol class="[ field-list ]">
@@ -14,6 +14,13 @@
       {{ label("How can we help?", "message") }}
       {{ textarea( "message", { required: true, autocapitalize: "sentences", spellcheck: "true" } ) }}
     </li>
+
+    
+     <li class="[ field-list__field-group ]">
+              {{ checkboxes("Consent to Contact", "field-checkbox-name", [ { label: "I am happy for Tech Works For Us to use my personal data to reply to me.", value: "Consent to Contact", note: "We take your privacy seriously, and will only use your data to reply to your message. For more information, see our  privacy notice. This form is processed via Netlify and will be sent via email." } ] ) }}
+            </li>
+
+
     <li hidden>
       <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
     </li>

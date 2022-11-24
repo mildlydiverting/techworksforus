@@ -4,6 +4,8 @@ title: Contact
 permalink: /contact/index.html
 ---
 
-If you think we can help, we'd love to have a chat. Send us a message using this form, and we'll get back to you within 2 working days.
+If you think we can help, we'd love to have a chat. Send us a message using this form, and we'll get back to you within 2 working days. 
 
 You can also find us on twitter, instagram and mastodon.
+
+You can read more about the way we handle your data in our [privacy notice](/privacy-notice).
