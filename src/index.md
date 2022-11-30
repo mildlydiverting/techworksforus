@@ -2,7 +2,7 @@
 layout: home
 title: Mentoring, advice, research and product management support for your
   digital projects, which puts people and planet first.
-introSummary: A second strapline here
+introSummary: ""
 metaDesc: Tech Works for Us is a  values-driven digital consultancy providing
   mentoring, advice, research and product management support for your digital
   projects, which puts people and planet first.
@@ -20,4 +20,4 @@ We are:
 * People-centred
 * Planet-centred
 
-Find out more about how we use [these principles in practice](/our-principles/), or find out more about our services and how we can help you.
+Find out more about how we use [these principles in practice](/our-principles/), or find out more about [our services and how we can help you](about).
