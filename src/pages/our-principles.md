@@ -1,12 +1,12 @@
 ---
 layout: layouts/page.njk
 title: Our Principles
-permalink: '/our-principles/index.html'
+permalink: /our-principles/index.html
 metaTitle: Tech Works For Us - Our Principles
 metaDesc: We believe in being honest and open, people centred, and planet
   centred. We always aim to reflect our values and ethics in the work we do.
 ---
-## Honest and open:
+## Honest and open
 
 **Transparent and clear processes.** It is important that all stakeholders have a clear picture of how a project will be run, what to expect at each stage and what might change along the way. We will work with you to establish this from the very start.
 
