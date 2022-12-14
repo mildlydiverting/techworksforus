@@ -4,6 +4,9 @@ metaTitle: "Living our values: building a sustainable website for ourselves"
 metaDesc: How Tech Works For Us chose a tech static and content that would keep
   our environmental impact to an absolute minimum
 date: 2022-11-30T18:59:39.087Z
+tags:
+  - sustainable-web
+  - blog
 ---
 ![A screenshot from the Website Carbon checker that says "Hurrah! This web page is cleaner than 98% of web pages tested"](https://lh6.googleusercontent.com/5Mrdv4vsjkfbsseAlRykapof1vWV3M7luCIormVi0pkBJs6ZEkV6PrcNFgf9hlb3hyXrkYeRlX4ukNvoczrvDYoi2ohVwApWk2kN2Cu8dnNsJYL1K5ADYcNypiJC0x1BYDVF1xd2rM4UoJX47RUctCp7GSwyTDzUv99bVVKRbqlY_PQ0-trCGkNlykHXog "Results for our website from the Website Carbon checker")
 
