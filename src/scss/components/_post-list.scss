@@ -4,9 +4,13 @@
   }
 
   &__link {
-    &,
+    &, {
+      background: linear-gradient(180deg, rgba(255,255,255,0) 50%, var(--color-stroke));
+      padding: 0.2rem 0.4rem 0.3rem 0.2rem;
+      text-decoration: none;
+      word-break: break-word;}
     &:visited {
-      color: var(--color-theme-primary);
+      color: var(--color-theme-primary-shade);
       text-decoration: none;
     }
 
