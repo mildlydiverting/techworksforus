@@ -42,3 +42,8 @@ Today, she can draw on a long and varied history of work in “digital”. This 
 
 
 She has taught digital production skills for Syracuse University, the National Film and Television School and the Arts Marketing Association amongst others, and has written and spoken widely. She is a mentor for leading Tech for Good accelerator Bethnal Green Ventures and has mentored for the National Lottery Heritage Fund. For more details [visit her own website at www.marthahenson.com](http://www.marthahenson.com).
+
+## About This Site
+
+This website is built to be as carbon efficient as possible. It minimises power use both server side, and on your device. You can (find out more about how and why we built this way on our blog)[/posts/living-our-values-2022-11-17/].
+The site was built by [Kim Plowright](https://www.mildlydiverting.com), and is adapted from the [Hylia theme](https://hylia.website) for [11ty](https://www.11ty.dev). The homepage pattern is used under a CC-By 4.0 license from [HeroPatterns/Steve Schoger]( https://heropatterns.com).
