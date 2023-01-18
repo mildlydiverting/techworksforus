@@ -7,7 +7,7 @@ metaDesc: Find out about our founder, our principles and values, and how we like
 ---
 We know how daunting it can be to **untangle stakeholder and user needs** to make a good plan for a digital project, to **decide which tools and platforms** to invest organisational time and money in, to **find the time to oversee complex digital development**, to **write a good brief** or funding bid or, sometimes, to even **know where to start**. 
 
-We can use our many years of experience working with a diverse range of companies and organisations to guide you through this process and build your digital confidence. 
+Tech Works For Us can use our many years of experience working with a diverse range of companies and organisations to guide you through this process and build your digital confidence. 
 
 ## Our Services
 
