@@ -3,7 +3,7 @@ title: "Living our values: building a sustainable website for ourselves"
 metaTitle: "Living our values: building a sustainable website for ourselves"
 metaDesc: How Tech Works For Us chose a tech static and content that would keep
   our environmental impact to an absolute minimum
-date: 2022-11-30T18:59:39.087Z
+date: 2023-01-18T16:51:00.220Z
 tags:
   - sustainable-web
   - blog
