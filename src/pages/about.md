@@ -7,7 +7,7 @@ metaDesc: Find out about our founder, our principles and values, and how we like
 ---
 We know how daunting it can be to **untangle stakeholder and user needs** to make a good plan for a digital project, to **decide which tools and platforms** to invest organisational time and money in, to **find the time to oversee complex digital development**, to **write a good brief** or funding bid or, sometimes, to even **know where to start**. 
 
-We can use our many years of experience working with a diverse range of companies and organisations to guide you through this process and build your digital confidence. 
+Tech Works For Us can use our many years of experience working with a diverse range of companies and organisations to guide you through this process and build your digital confidence. 
 
 ## Our Services
 
@@ -45,7 +45,6 @@ She has taught digital production skills for Syracuse University, the National F
 
 This website is built to be as carbon efficient as possible. It minimises power use both server side, and on your device. 
 
-You can [find out more about how and why we built it this way on our blog](https://tech-works-for-us.netlify.app/posts/living-our-values-2022-11-17/).
-
+You can [find out more about how and why we built it this way on our blog](https://www.techworksforus.com/posts/living-our-values-2022-11-17/).
 
 The site was built by [Kim Plowright](https://www.mildlydiverting.com), and is adapted from the [Hylia theme](https://hylia.website) for [11ty](https://www.11ty.dev). The homepage pattern is used under a CC-By 4.0 license from [HeroPatterns/Steve Schoger](https://heropatterns.com).
