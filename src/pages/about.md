@@ -35,15 +35,13 @@ Luckily, there are some straightforward things you can do to help keep this to a
 
 ## About Our Founder
 
-Martha Henson is our founder but brings in other expert consultants, developers and specialists as needed.. An early adopter of Internet technologies, Martha started building websites in the mid 90s. Back then, the web was a glorious mess of frantic Notepad-built special interest websites, X-Files Usenet groups and unregulated chatrooms. It’s come a long way since, and so has she. 
-
+Martha Henson is our founder but brings in other expert consultants, developers and specialists as needed. An early adopter of Internet technologies, Martha started building websites in the mid 90s. Back then, the web was a glorious mess of frantic Notepad-built special interest websites, X-Files Usenet groups and unregulated chatrooms. It’s come a long way since, and so has she.
 
 Today, she can draw on a long and varied history of work in “digital”. This has included product management, content production from filmmaking to writing, user research and analysis, project evaluation and digital strategy. She has worked in broadcast, the cultural sector, edtech, healthtech, the charitable sector and beyond.
-
 
 She has taught digital production skills for Syracuse University, the National Film and Television School and the Arts Marketing Association amongst others, and has written and spoken widely. She is a mentor for leading Tech for Good accelerator Bethnal Green Ventures and has mentored for the National Lottery Heritage Fund. For more details [visit her own website at www.marthahenson.com](http://www.marthahenson.com).
 
 ## About This Site
 
-This website is built to be as carbon efficient as possible. It minimises power use both server side, and on your device. You can (find out more about how and why we built this way on our blog)[/posts/living-our-values-2022-11-17/].
-The site was built by [Kim Plowright](https://www.mildlydiverting.com), and is adapted from the [Hylia theme](https://hylia.website) for [11ty](https://www.11ty.dev). The homepage pattern is used under a CC-By 4.0 license from [HeroPatterns/Steve Schoger]( https://heropatterns.com).
+This website is built to be as carbon efficient as possible. It minimises power use both server side, and on your device. You can [find out more about how and why we built it this way on our blog](https://tech-works-for-us.netlify.app/posts/living-our-values-2022-11-17/).
+The site was built by [Kim Plowright](https://www.mildlydiverting.com), and is adapted from the [Hylia theme](https://hylia.website) for [11ty](https://www.11ty.dev). The homepage pattern is used under a CC-By 4.0 license from [HeroPatterns/Steve Schoger](https://heropatterns.com).
