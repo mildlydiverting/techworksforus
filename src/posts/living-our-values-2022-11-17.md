@@ -3,7 +3,7 @@ title: "Living our values: building a sustainable website for ourselves"
 metaTitle: "Living our values: building a sustainable website for ourselves"
 metaDesc: How Tech Works For Us chose a tech static and content that would keep
   our environmental impact to an absolute minimum
-date: 2022-11-30T18:59:39.087Z
+date: 2023-01-18T16:51:00.220Z
 tags:
   - sustainable-web
   - blog
@@ -29,3 +29,5 @@ So theoretically, all very lightweight, but does it achieve our low carbon aims?
 As you can see it is a near perfect score, but the accessibility could be improved by increasing the colour contrast between the brand orange and other colours, so we are going to tweak that soon.
 
 A good start for us. We still need to review other areas of technology that we use, however, such as our email systems, social media, apps and services. And we continue to look into options that are likely to be more relevant to our clients. Keep an eye on this blog where we will continue to share what we find.
+
+Written by Martha Henson with additions from Kim Plowright (thank you Kim!)
