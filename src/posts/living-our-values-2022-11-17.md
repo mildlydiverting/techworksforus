@@ -30,4 +30,4 @@ As you can see it is a near perfect score, but the accessibility could be improv
 
 A good start for us. We still need to review other areas of technology that we use, however, such as our email systems, social media, apps and services. And we continue to look into options that are likely to be more relevant to our clients. Keep an eye on this blog where we will continue to share what we find.
 
-\-﻿Martha Henson with additions from Kim Plowright (thank you Kim!)
+Written by Martha Henson with additions from Kim Plowright (thank you Kim!)
