@@ -6,11 +6,12 @@
   &__link {
     &, {
       background: linear-gradient(180deg, rgba(255,255,255,0) 50%, var(--color-stroke));
+      color: var(--color-theme-primary-shade);
       padding: 0.2rem 0.4rem 0.3rem 0.2rem;
       text-decoration: none;
       word-break: break-word;}
     &:visited {
-      color: var(--color-theme-primary-shade);
+      color: var(--color-theme-text);
       text-decoration: none;
     }
 
