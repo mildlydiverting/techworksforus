@@ -15,9 +15,11 @@ Git/Github for source control and repo hosting.
 
 Hylia has [Netlify CMS](https://www.netlifycms.org/) pre-configured as standard. You can customise the configuration by editing [`src/admin/config.yml`](https://github.com/hankchizljaw/hylia/blob/master/src/admin/config.yml).
 
-To use the CMS on Live you need to have been set up with a 'Netlify Identity' through the Netlify site management console.
+To use the CMS on Live you need to have been set up with a 'Netlify Identity' through the Netlify site management console. This is seperate to your overall account signing for Netlify.
 
-- Go to `/admin/` on your site and login
+To access the CMS
+
+- Go to `/admin/` on your site and login with your Netlify Identity details
 - You’re in and ready to edit your content!
 
 ### Content that you can edit
@@ -30,6 +32,10 @@ The basic CMS setup allows you to edit the following:
 - **Global site data**: Various bits of global site data such as your url, title, posts per page and author details
 - **Navigation**: Edit your primary navigation items
 - **Theme**: Edit the design tokens that power the site’s theme
+
+If you want to add a new field / data to pages or posts, you can add it to the frontmatter in the .md file, and then tell NetlifyCMS about it by adding the information to `src/admin/config.yml` 
+
+[Netlify CMS Documentation](https://www.netlifycms.org/docs/intro/) is comprehensive, and includes information about [configuration options](https://www.netlifycms.org/docs/configuration-options/)
 
 
 # How it is set up
@@ -53,57 +59,34 @@ There is a Styleguide page at `(website)/sytleguide/` which can be useful.
 # Images
 
 The leaf pattern is an SVG repeat that's encoded in the CSS. It is taken from here.
-https://heropatterns.com under CC-By 4.0 - we should credit HeroPatterns/Steve Schoger
+https://heropatterns.com under CC-By 4.0 - it is credited to HeroPatterns/Steve Schoger on the About page
 
 I worked with 800x600 images, but you might want to look at going a little bigger, or a 16:9 aspect ratio.
-Aim to keep them as small as possible. 
+Aim to keep them as small in filesize as possible. 
 
 Dithering saves some file size for images (gif, png) whilst maintaing detail. It was used by LowTech as an aesthetic statement as much as an efficiency one. 
 See writeups from:
 [homebrewserver.club](https://homebrewserver.club/low-tech-website-howto.html#image-compression) 
 [solar.lowtechmagazine.com](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html)
 
-There's a [lot of discussion](https://news.ycombinator.com/item?id=28696014) about how well it works as a compression tactic
-
-I quite like it as an aesthetic signal that youre thinking about the file size.
+There's a [lot of discussion](https://news.ycombinator.com/item?id=28696014) about how well it works as a compression tactic. I quite like it as an aesthetic signal that youre thinking about the file size.
 
 We may want to use WebP images - they are much much more efficient but taking a while to catch on. 
 
 [Image Compressor-Reduce PNG, JPEG, WEBP](https://redketchup.io/image-compressor) allows you to compress images and export in different formats.
 
-### Photoshop Dithering in Save for Web Dialog
+### Dithering Images
 
-![A picture of Martha Henson](/images/martha-henson-600px.gif "This is a picture of Martha Henson, Which I have run through a photoshop filter to reduce its file size a lot.")
+You can do Photoshop Dithering in Save for Web Dialog for gifs.
 
-### Dither It
+https://ditherit.com offers different dithering options and algorithms. See also https://doodad.dev/dither-me-this/
 
-https://ditherit.com offers different dithering options and algorithms
+**Halftone Pro** [https://halftonepro.com/app](https://halftonepro.com/app "title of this link") Does some fancy stuff with dither-like halftoning. However the images it has spit out are really big: you could use it to create the image then run them through a compressor?
 
-![demo-dither_it_22711070429_526ea6cc44_o.jpg](/images/demo-dither_it_22711070429_526ea6cc44_o.jpg "Caption")
-
-![demo-dithered-image.png](/images/demo-dithered-image.png)
-
-
-See also https://doodad.dev/dither-me-this/
-
-### Halftone Pro
-
-[https://halftonepro.com/app](https://halftonepro.com/app "title of this link")
-
-<https://halftonepro.com/app>
-
-![demo-halftone-1668948217.png](/images/demo-halftone-1668948217.png  "alt text")
-
-![demo-halftone-1668948363.png](/images/demo-halftone-1668948363.png "alt text")
-
-![demo-halftone-1668948665.png](/images/demo-halftone-1668948665.png "alt text")
-
-Settings for Halftone Pro:
+The settings I liked for Halftone Pro:
+Choose the Popart preset, changing colours to:
 #404040
 #F2CAA5
-Popart preset, changing colours
-
-Outputs large heavy images, however.
 
 # Running Locally
 
@@ -153,8 +136,8 @@ npm run sass:tokens
 Colours currently:
 
     "primary": "#F27400",
-    "primary-shade": "#AA5200",
-    "primary-glare": "#FFAB40",
+    "primary-shade": "#8A4300",
+    "primary-glare": "#FFB24D",
     "highlight": "#F0E0D1",
     "light": "#FFFFFF",
     "mid": "#cccccc",
@@ -175,7 +158,7 @@ The tokens are converted into maps that the Sass uses to compile the front-end C
 
 ### Styleguide
 
-A styleguide is available at /styleguide/
+A styleguide is available at '/styleguide/'
 
 
 
