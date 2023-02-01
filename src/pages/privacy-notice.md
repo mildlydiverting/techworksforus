@@ -132,7 +132,7 @@ Your right to data portability - You have the right to ask that we transfer the 
 
 You are not required to pay any charge for exercising your rights. If you make a request, we have one month to respond to you.
 
-Please contact us at \[DATA EMAIL] or \[POSTAL ADDRESS] if you wish to make a request. Please clearly mark that you are making a Subject Access Request (SAR) in the email or letter.
+Please contact us at admin @ techworksforus.com or 85 Great Portland street, First Floor, London, W1W 7LT if you wish to make a request. Please clearly mark that you are making a Subject Access Request (SAR) in the email or letter.
 
 ## How to contact us, or make a complaint
 
