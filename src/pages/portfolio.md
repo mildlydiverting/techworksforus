@@ -11,7 +11,7 @@ A selection of past work
 
 #### Butterfly Conservation
 
-![Butterfly Conservation logo depicting an outline butterfly and the text "saving butterflies, moths and our environment"](/images/bc-master-logo.jpg "Butterfly Conservation logo")
+![Butterfly Conservation logo depicting a butterfly and the text "Saving butterflies, moths and our environment"](/images/bc-master-logo.png "Butterfly Conservation logo")
 
 Tech Works For Us is currently working with [Butterfly Conservation](https://butterfly-conservation.org/) in partnership with the [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk/) on their Supporting Science project, developing tools for volunteer record verifiers.  
 
