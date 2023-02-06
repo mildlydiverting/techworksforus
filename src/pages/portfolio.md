@@ -12,6 +12,7 @@ A selection of past work
 ![Butterfly Conservation logo depicting a butterfly and the text "Saving butterflies, moths and our environment"](/images/bc-master-logo.png)
 
 Tech Works For Us is currently working with [Butterfly Conservation](https://butterfly-conservation.org/) in partnership with the [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk/) on their Supporting Science project, developing tools for volunteer record verifiers.  
+
 > Martha has brought fresh eyes to our project and assisted a detail-focused team to structure our work around the big picture and user needs. She has helped us understand and select the right approach and introduced research and product management techniques that would have been outside of our comfort zone without support. 
 >
 > Martha led development of the research framework, conducted interviews and testing and led developer meetings. We’ve therefore been able to focus staff time on our strengths and work collaboratively and confidently with delivery partners. Martha has taken care to thoroughly understand our team, the complex topic and diverse volunteer user base. 
@@ -28,4 +29,4 @@ Her clients have included included Cartoon Network, Raspberry Pi, the Royal Inst
 
 > Martha was a great mentor for me as part of the HLF Digital Confidence Fund. She was able to demystify everything and break it down into manageable chunks. Her calm and patient demeanour meant I never had a silly question. I could feel that technology was becoming my friend instead of something to be feared.
 
-\-- Priscilla Igwe, The New Black Film Collective
+\-- Priscilla Igwe, Managing Director, [The New Black Film Collective](https://www.tnbfc.co.uk/)
