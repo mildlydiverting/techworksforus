@@ -9,6 +9,8 @@ We know how daunting it can be to **untangle stakeholder and user needs** to mak
 
 Tech Works For Us can use our many years of experience working with a diverse range of companies and organisations to guide you through this process and build your digital confidence. 
 
+Find out more details about our services below, or read testimonials and case studies from past projects on [our Portfolio page](/portfolio/).
+
 ## Our Services
 
 * Consultancy and advice on digital projects
@@ -45,6 +47,6 @@ She has taught digital production skills for Syracuse University, the National F
 
 This website is built to be as carbon efficient as possible. It minimises power use both server side and on your device. 
 
-You can [find out more about how and why we built it this way on our blog](https://www.techworksforus.com/posts/living-our-values-2022-11-17/).
+You can find out more about how and why we built it this way on our blog.
 
 The site was built by [Kim Plowright](https://www.mildlydiverting.com), and is adapted from the [Hylia theme](https://hylia.website) for [11ty](https://www.11ty.dev). The homepage pattern is used under a CC-By 4.0 license from [HeroPatterns/Steve Schoger](https://heropatterns.com).
