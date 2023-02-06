@@ -9,9 +9,7 @@ metaDesc: Read about past projects, clients and testimonials
 
 A selection of past work 
 
-#### Butterfly Conservation
-
-![Butterfly Conservation logo depicting a butterfly and the text "Saving butterflies, moths and our environment"](/images/bc-master-logo.png "Butterfly Conservation logo")
+![Butterfly Conservation logo depicting a butterfly and the text "Saving butterflies, moths and our environment"](/images/bc-master-logo.png)
 
 Tech Works For Us is currently working with [Butterfly Conservation](https://butterfly-conservation.org/) in partnership with the [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk/) on their Supporting Science project, developing tools for volunteer record verifiers.  
 
@@ -21,8 +19,14 @@ Tech Works For Us is currently working with [Butterfly Conservation](https://but
 >
 > I would recommend Tech Works For Us to any digital project for which the process is as important as the tech you are creating; Martha will help you to clarify and document that process and end up with a clear roadmap of how you got there and what could come next.
 
-#### Past projects
+\-- Chloë Smith, Head of Biological Data, Butterfly Conservation
+
+#### Previous projects and testimonials
 
 Our founder, Martha Henson, has worked with a wide variety of organisations on digital projects ranging from educational games to online electoral campaigns. You can see highlights from her [digital portfolio on her personal website](https://marthahenson.com/digital-portfolio/) and [testimonials on her LinkedIn Profile](https://www.linkedin.com/in/martha-henson-5673a060/details/recommendations/). 
 
 Her clients have included included Cartoon Network, Raspberry Pi, the Royal Institution, Science Museum, Wellcome Collection, Nord Anglia Education, Teach Your Monster to Read, Harper Collins/4th Estate, the Comms Lab, the British Museum, the Natural History Museum of Utah, Museum of London, Tate, Frankly Green + Webb, Kudos Productions, Buxton Museum, the National Lottery Community Fund, and the National Lottery Heritage fund.
+
+> Martha was a great mentor for me as part of the HLF Digital Confidence Fund. She was able to demystify everything and break it down into manageable chunks. Her calm and patient demeanour meant I never had a silly question. I could feel that technology was becoming my friend instead of something to be feared.
+
+\-- Priscilla Igwe, The New Black Film Collective
