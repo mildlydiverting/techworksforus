@@ -21,6 +21,8 @@ Tech Works For Us is currently working with [Butterfly Conservation](https://but
 
 \-- Chloë Smith, Head of Biological Data, Butterfly Conservation
 
+W﻿e have also been working directly with UKCEH on a user research project with a wider group of verifiers, for species other than moths and butterflies.
+
 > Martha Henson has worked with the Biological Records Centre on two recent projects to support our development of online tools to support the work of volunteer wildlife recorders and verifiers. Biological recording can be a complex area, with multiple perspectives on how things are best done and a wide range of user experience when it comes to online technologies. Martha's work for us focused on a consultation process with many of the people who are using these technologies to help collate and check wildlife records. 
 >
 > Martha was quick to grasp the complexities and sensitivities around the subject, and was able to provide a great deal of helpful insight into planning and running the consultation process, from the perspective of an interested and informed but neutral position. Throughout she was sensitive to the demands that data verification places on the volunteers involved, and was careful to ensure that the participants were engaged and supported, maximising the gathering of feedback from them and helping turn this into practical proposals for developing the systems further. Martha also brought her skills to the careful collation, analysis and presentation of the diverse results that the project generated.
