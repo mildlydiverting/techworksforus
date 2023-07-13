@@ -6,16 +6,24 @@
       "external": false
     },
     {
-      "text": "Blog",
-      "url": "/blog/"
+      "text": "About Us",
+      "url": "/about/"
     },
     {
       "text": "Principles",
       "url": "/our-principles/"
     },
     {
-      "text": "About Us",
-      "url": "/about/"
+      "text": "Training",
+      "url": "https://www.techworksforus.com/training"
+    },
+    {
+      "text": "Portfolio",
+      "url": "https://www.techworksforus.com/portfolio/"
+    },
+    {
+      "text": "Blog",
+      "url": "/blog/"
     },
     {
       "text": "Contact",
