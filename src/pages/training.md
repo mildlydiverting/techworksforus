@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Training
-permalink: /our-principles/index.html
+permalink: /training/index.html
 metaTitle: "Tech Works For Us - Training "
 metaDesc: Digital training offered. User research, implementing user insight,
   creating a digital brief, iterative design, game design.
