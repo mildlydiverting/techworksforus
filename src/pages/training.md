@@ -3,8 +3,8 @@ layout: layouts/page.njk
 title: Training
 permalink: /training/index.html
 metaTitle: "Tech Works For Us - Training "
-metaDesc: Workshop offered on user research, implementing user insight, creating
-  a digital brief, demystifying digital, iterative or game design.
+metaDesc: Workshops offered on user research, implementing user insight,
+  creating a digital brief, demystifying digital, iterative or game design.
 ---
 We offer a range of workshops on different aspects of digital strategy and development. These can be tailored to your particular organisational needs and challenges and can be offered as standalone sessions or as part of a bigger project with you. In person is always better but many of these can also be run online. 
 
