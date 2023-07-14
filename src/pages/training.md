@@ -17,3 +17,11 @@ We offer a range of workshops on different aspects of digital strategy and devel
 * **D﻿emystifying digital.** If you are used to working in analogue spaces, the digital world can feel daunting and confusing. The chances are, though, that you already have the skills to deal with it, it's just about making connections between those and applying them to online platforms and behaviours. We can provide tailored training for teams, boards, trustees and small organisations to introduce tools such as remote working or online meetings, the basics of social media, challenges with digital content and more. 
 
 I﻿f there are other aspects of [our available services](https://www.techworksforus.com/about/#heading-our-services) that you would like to have turned into training for your organisation, this may also be possible. [Let us know](https://www.techworksforus.com/contact/).
+
+## T﻿estimonials for past workshops
+
+*“Martha Henson is a talented and engaged communicator who I can highly recommend as a speaker and facilitator. She is a popular guest speaker for my class on digital engagement, and is outstanding at motivating the students and guiding them through a wide range of immersive activities. “* Carol Nahra, Adjunct Professor, Syracuse University London Programme
+
+*“Martha provided a very active and thought provoking workshop. The session was well structured to ensure a focus on the dynamics of group learning through game based play. The lightning game design session was great and resulted in ideas that were based firmly around the mechanics of game design. Martha is great at group facilitation and getting people to think outside the box.*” – Graham Davies, Digital Programmes Manager, National Museum Wales
+
+*“iI was brilliantly designed and well timed, with a good balance of interactive and instructional elements” “Extremely useful and really energising – I left excited at the thought of gamifying each and every presentation going forward (which was the point right?)” “Such a great session! It was really fun and she was really engaging. I liked the session as it was as it was a good mix of learning, playing and designing.”* M&C Saatchi World Service participants
