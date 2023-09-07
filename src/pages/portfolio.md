@@ -43,4 +43,4 @@ Her clients have included included Cartoon Network, Raspberry Pi, the Royal Inst
 
 > Our mentor was particularly valuable. The skills, knowledge and advice offered from her were crucial to the planning and delivery of the project. We feel that this support, utilised in our meetings with the appointed contractors, was key to the required creative process and allowed for the funding to produce a product that we can all feel proud of.
 
-\-- Grimsby Fishing Heritage Centre evaluation on their Digital Confidence Fund work with Martha as mentor.
+\-- Grimsby Fishing Heritage Centre evaluation on their Digital Confidence Fund work with Martha as mentor
