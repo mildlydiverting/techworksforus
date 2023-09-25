@@ -1,8 +1,8 @@
 ---
 layout: layouts/page.njk
-title: Portfolio
-permalink: /portfolio/index.html
-metaTitle: Portfolio of work for Tech Works For Us
+title: Case Studies
+permalink: /case-studies/index.html
+metaTitle: Case studies of work for Tech Works For Us
 metaDesc: Read about past projects, clients and testimonials
 ---
 ## Projects, clients and testimonials
