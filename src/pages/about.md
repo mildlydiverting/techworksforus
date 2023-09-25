@@ -47,6 +47,6 @@ She has taught digital production skills for Syracuse University, the National F
 
 This website is built to be as carbon efficient as possible. It minimises power use both server side and on your device. 
 
-You can find out more about how and why we built it this way on our blog.
+You can find out more about how and why we built it this way on [our blog](/posts/living-our-values-2022-11-17/).
 
 The site was built by [Kim Plowright](https://www.mildlydiverting.com), and is adapted from the [Hylia theme](https://hylia.website) for [11ty](https://www.11ty.dev). The homepage pattern is used under a CC-By 4.0 license from [HeroPatterns/Steve Schoger](https://heropatterns.com).
