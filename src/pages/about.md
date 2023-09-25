@@ -9,7 +9,7 @@ We know how daunting it can be to **untangle stakeholder and user needs** to mak
 
 Tech Works For Us can use our many years of experience working with a diverse range of companies and organisations to guide you through this process and build your digital confidence. 
 
-Find out more details about us, our services, and our commitment to sustainability below, or read testimonials and details about past projects on our [Case Studies](/case-studies) page.
+Find out more details about us, our services, and our commitment to sustainability below, or read testimonials and details about past projects on our[Case Studies](/case-studies/)page.
 
 ## Our Services
 
