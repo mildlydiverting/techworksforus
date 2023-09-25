@@ -21,3 +21,5 @@ We are:
 * [Planet-centred](/our-principles/#heading-planet-centred)
 
 Find out more about how we use [these principles in practice](/our-principles/), learn about[our services and how we can help you](/about)or read testimonials and details about past projects on our[Case Studies](/case-studies/)page.
+
+*T﻿his site has been carefully designed to minimise carbon emissions, find out how we did this on[our blog](/posts/living-our-values-2022-11-17/).*
